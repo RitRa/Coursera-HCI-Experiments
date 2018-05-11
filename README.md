@@ -1,8 +1,7 @@
-# Coursera-HCI-Experiments
 
-Designing, Running, and Analyzing Experiments
-Coursera 
-Sep 2017
+# Designing, Running, and Analyzing Experiments
+
+Coursera - Sep 2017
 
 Tasks completed during this course using R. 
 
