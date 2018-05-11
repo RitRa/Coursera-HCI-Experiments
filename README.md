@@ -1,7 +1,8 @@
 
 # Designing, Running, and Analyzing Experiments
 
-Coursera course completed Sep 2017
+Interaction Design course 7 completed Sep 2017
+
 
 Tasks completed during this course using R. 
 
