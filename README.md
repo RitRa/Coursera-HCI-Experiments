@@ -1,7 +1,7 @@
 
 # Designing, Running, and Analyzing Experiments
 
-Coursera - Sep 2017
+Coursera course completed Sep 2017
 
 Tasks completed during this course using R. 
 
